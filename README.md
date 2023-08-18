@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijeetdeka&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeetdeka" /> </p>
 
-<p align="left"> <a href="https://twitter.com/abhijeetdeka" target="blank"><img src="https://img.shields.io/twitter/follow/abhijeetdeka?logo=twitter&style=for-the-badge" alt="abhijeetdeka" /></a> </p>
+<p align="left"> <a href="https://twitter.com/abhijeeetdeka?t=7-I5H0CwHXdgSIWQgfMRUg&s=08" target="blank"><img src="https://img.shields.io/twitter/follow/abhijeetdeka?logo=twitter&style=for-the-badge" alt="abhijeetdeka" /></a> </p>
 
 - 🌱 I’m currently learning **HTML,CSS,Java Script**
 
